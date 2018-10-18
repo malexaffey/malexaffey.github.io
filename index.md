@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[SingulartiyNET.io GitHub](https://github.com/singnet)
+![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)[SingulartiyNET.io GitHub](https://github.com/singnet)
 
 There should be whitespace between paragraphs.
 
