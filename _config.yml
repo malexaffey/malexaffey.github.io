@@ -1,5 +1,5 @@
 title: SingularityNET GitHub Pages
 description: SingularityNET lets anyone create, share, and monetize AI services at scale. The world’s decentralized AI network has arrived.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
